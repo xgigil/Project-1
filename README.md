@@ -1,2 +1,2 @@
 # Project-1
-Midterm Activity (March 12, 2025)
+Midterm Activity Part 1 (March 12, 2025)
